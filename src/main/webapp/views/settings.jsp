@@ -218,8 +218,8 @@
             <!-- Admin Section (visible by default) -->
             <div id="adminSection" class="setting-card admin-section">
                 <h3>Account Information (Admin)</h3>
-                <p>Username: TarunaSri</p>
-                <p>Email: taruna@gmail.com</p>
+                <p>Username: Pujitha</p>
+                <p>Email: pujitha@gmail.com</p>
                 <p>Phone: 987-654-3210</p>
             </div>
 
