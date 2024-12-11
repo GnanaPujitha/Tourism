@@ -47,7 +47,7 @@ public class AdminController {
     @PostMapping("/adminLogin")
     public String adminLogin(@RequestParam String username, @RequestParam String password, RedirectAttributes redirectAttributes) {
         // Hardcoded credentials for the admin
-        if ("TarunaSri".equals(username) && "taruna@123".equals(password)) {
+        if ("admin".equals(username) && "admin".equals(password)) {
             return "redirect:/adminDashboard"; // Redirect to admin dashboard on successful login
         } else {
             redirectAttributes.addFlashAttribute("error", "Invalid username or password.");

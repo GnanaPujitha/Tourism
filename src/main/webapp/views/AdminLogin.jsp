@@ -5,12 +5,12 @@
 <head>
     <title>Admin Login</title>
     <style>
-        /* Body styles */
+        
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             margin: 0;
             padding: 0;
-            background: pink; /* Beautiful gradient background */
+            background: pink; 
             height: 100vh;
             display: flex;
             justify-content: center;
@@ -19,7 +19,7 @@
             background-attachment: fixed;
         }
 
-        /* Login container styles */
+        
         .login-section {
             width: 380px;
             padding: 40px;
